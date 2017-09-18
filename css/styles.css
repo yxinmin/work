@@ -1,4 +1,4 @@
-* {
+﻿* {
 	box-sizing: border-box;
 }
 
@@ -105,4 +105,20 @@ img {
 	.Ingredients h3 {
 		margin: 0;
 	}
+body{
+
+        text-align:center;                     <!--设置文本居中显示-->
+
+       }
+
+   #box{
+
+         width:720px;
+
+         margin:0 auto;
+
+         text-align:left;                     <!--设置文本向左显示-->
+
+        }
+
 }
